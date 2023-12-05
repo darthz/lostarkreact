@@ -1,4 +1,4 @@
-#Lost Ark Character Roster Project
+# Lost Ark Character Roster Project
 
 
 ## Just clone the repository and run npm install and npm start
